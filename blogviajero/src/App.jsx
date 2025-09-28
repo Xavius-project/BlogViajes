@@ -33,12 +33,29 @@ export default function TravelBlog() {
     },
     {
       id: 2,
-      title: 'Paseatepor las calles de Guanajuato colonial',
+      title: 'Paseate por las calles de Guanajuato colonial',
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
       date: '2025-10-10',
      location: 'Guanajuato, México',
       cover: './Images/perico.png',
-      content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
+      content: `“Guanajuato: colores que inspiran, callejones que atrapan y vibes que no olvidas.”
+	  
+	  Lo que yo visité en este viaje fue:
+
+     -Callejón del Beso (Este icónico callejón es un lugar romántico y emblemático, famoso por la leyenda que narra la historia de amor de dos jóvenes.)
+     -Monumento a El Pípila (Una de las mejores vistas panorámicas de la ciudad, podrás apreciar la colorida arquitectura de Guanajuato.)
+     -Museo de las Momias (Uno de los museos más famosos de la ciudad, donde se exhiben los cuerpos momificados de forma natural que fueron exhumados del 
+	 Panteón de Santa Paula.)
+	 -Teatro Juárez (Majestuoso teatro de estilo dórico romano es una joya arquitectónica que recibe a importantes eventos culturales.)
+	 -Alhóndiga de Granaditas (Edificio histórico que fue un granero y una pieza clave en la Guerra de Independencia, hoy es un museo que alberga 
+	 exposiciones de arte y arqueología.)
+	 -Mercado Hidalgo (Mercado histórico de hierro y cristal, ideal para probar la comida local, comprar artesanías y sumergirse en la vida cotidiana de la 
+	 ciudad.
+	 -Túneles Subterráneos (Extensa red de calles subterráneas por la que se puede conducir)
+	 
+	 Su platillo tradicional son las Enchiladas mineras (Las tortillas de maíz se rellenan de queso ranchero y cebolla, se bañan en una salsa de chile guajillo, y se sirven con pollo, papas y zanahorias.)
+	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)
+	 
     },
     {
       id: 3,
