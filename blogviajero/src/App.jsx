@@ -12,7 +12,7 @@ export default function TravelBlog() {
       date: '2025-09-01',
       location: 'Chiapas, México',
       cover: './Images/sanclistobal.png',
-      content: `Esto es solo el comienzo, caminar por las calles empedradas de San Cristóbal es como viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia.
+      content: 'Esto es solo el comienzo, caminar por las calles empedradas de San Cristóbal es como viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia.
 	  
 	  Lo que yo visité en este viaje fue: 
 	  
@@ -28,7 +28,7 @@ export default function TravelBlog() {
 	  
 	  Yo aprendí sobre una rica diversidad cultural, la historia colonial de México, las tradiciones indígenas y una profunda conexión con la naturaleza.
 	  
-	  Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías`
+	  Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías'
 
     },
     {
@@ -38,7 +38,7 @@ export default function TravelBlog() {
       date: '2025-10-10',
      location: 'Guanajuato, México',
       cover: './Images/perico.png',
-      content: `“Guanajuato: colores que inspiran, callejones que atrapan y vibes que no olvidas.”
+      content: 'Guanajuato: colores que inspiran, callejones que atrapan y vibes que no olvidas.
 	  
 	  Lo que yo visité en este viaje fue:
 
@@ -52,7 +52,7 @@ export default function TravelBlog() {
 	 -Túneles Subterráneos (Extensa red de calles subterráneas por la que se puede conducir)
 	 
 	 Su platillo tradicional son las Enchiladas mineras (Las tortillas de maíz se rellenan de queso ranchero y cebolla, se bañan en una salsa de chile guajillo, y se sirven con pollo, papas y zanahorias.)
-	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)
+	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)'
 	 
     },
     {
@@ -62,7 +62,7 @@ export default function TravelBlog() {
       date: '2025-10-10',
      location: 'San Miguel de allende, México',
       cover: './Images/viajero.png',
-      content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
+      content: 'Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
     }
 	,
     {
