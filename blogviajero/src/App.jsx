@@ -30,7 +30,7 @@ export default function TravelBlog() {
 	  
 	  Yo aprendí sobre una rica diversidad cultural, la historia colonial de México, las tradiciones indígenas y una profunda conexión con la naturaleza.
 	  
-	  Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías`
+	  Tips:Llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías`
 
     },
     {
@@ -57,6 +57,9 @@ export default function TravelBlog() {
 	 
 	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)`
 	 
+	 De Guanajuato aprendí su rica historia minera, que le ha dado una identidad única como ciudad Patrimonio de la Humanidad, con su laberíntico sistema de túneles y callejones
+	 
+	 Tips:Camina mucho, visita atracciones imperdibles como el Teatro Juárez y el Callejón del Beso, y evita moverte en coche por los estrechos callejones. Mantente en zonas concurridas por la noche para mayor seguridad y prueba los dulces y recuerdos en el mercado principal. 
     },
     {
       id: 3,
