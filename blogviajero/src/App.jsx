@@ -39,7 +39,7 @@ export default function TravelBlog() {
       excerpt: 'Cajeta,dulces y crepas.',
       date: '2025-10-10',
      location: 'Celaya, Guanajuato',
-      cover: './Images/Celaya.png',
+      cover: './Images/Celaya 2.png',
       content: `El Corazón Dulce de Guanajuato y donde la historia sabe a Cajeta.`
     }
 	
