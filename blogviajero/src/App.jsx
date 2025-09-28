@@ -59,7 +59,7 @@ export default function TravelBlog() {
       <header className="bg-gradient-to-r from-indigo-600 to-cyan-500 text-white">
         <div className="max-w-5xl mx-auto px-6 py-8 flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-extrabold">Viajar para vivir</h1>
+            <h1 className="text-3xl font-extrabold">Pasaporte de aventuras</h1>
             <p className="text-sm opacity-90">Historias, guías y fotos para viajeros curiosos</p>
           </div>
           <nav className="space-x-4 hidden md:block">
