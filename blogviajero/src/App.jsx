@@ -128,7 +128,7 @@ export default function TravelBlog() {
         <section id="about" className="mt-16 bg-white rounded-xl shadow p-6">
           <h3 className="text-2xl font-semibold mb-3">Sobre mí</h3>
           <div className="md:flex gap-6 items-center">
-            <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=60" alt="autor" className="w-32 h-32 object-cover rounded-full mb-4 md:mb-0" />
+            <img src="./Images/Celaya 2.png" alt="autor" className="w-32 h-32 object-cover rounded-full mb-4 md:mb-0" />
             <div>
               <p>Soy Sandra Lizeth, diganme Liz, y soy una viajera apasionada por las culturas locales, la comida y las historias que hacen únicos a los lugares. Aquí comparto mis experiencias, tips y rutas para que viajes con más confianza.</p>
               <ul className="mt-3 space-y-1 text-sm text-gray-600">
