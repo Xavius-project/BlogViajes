@@ -13,21 +13,16 @@ export default function TravelBlog() {
       location: 'Chiapas, México',
       cover: './Images/sanclistobal.png',
       content: 'Esto es solo el comienzo, caminar por las calles empedradas de San Cristóbal es como viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia.
-	  
 	  Lo que yo visité en este viaje fue: 
-	  
 	  -El Centro histórico, Andador Real de Guadalupe (Esta es una de las calles peatonales más transitadas)
 	  -Catedral de San Cristóbal (Icónico edificio colonial de estilo barroco. Su interior está recubierto de pan de oro, destaca por su historia y arte)
 	  -Plaza 31 de marzo ( Plaza principal, donde podrás observar la vida cotidiana de la ciudad, rodeado de restaurantes, tiendas y la Catedral.)
 	  -Mercado de Artesanías de Santo Domingo ( Ubicado cerca del templo de Santo Domingo,  perfecto para encontrar una infinidad de textiles, joyas de ámbar y otras artesanías locales hechas por artesanos de la región)
-	  
 	  Su platillo tradicional es el Cochito (platillo de carne de cerdo adobada y horneada es un clásico de la región y es ampliamente reconocido como una 
 	  especialidad de la cocina coleta.)
 	  Su bebida que los representa es el Pozol ( Bebida ancestral a base de cacao, maíz y canela )
 	  Su dulce más popular y exquisito es el Jamoncillo (Dulce tradicional de leche, con sabor a canela)
-	  
 	  Yo aprendí sobre una rica diversidad cultural, la historia colonial de México, las tradiciones indígenas y una profunda conexión con la naturaleza.
-	  
 	  Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías'
 
     },
@@ -39,9 +34,7 @@ export default function TravelBlog() {
      location: 'Guanajuato, México',
       cover: './Images/perico.png',
       content: 'Guanajuato: colores que inspiran, callejones que atrapan y vibes que no olvidas.
-	  
 	  Lo que yo visité en este viaje fue:
-
      -Callejón del Beso (Este icónico callejón es un lugar romántico y emblemático, famoso por la leyenda que narra la historia de amor de dos jóvenes.)
      -Monumento a El Pípila (Una de las mejores vistas panorámicas de la ciudad, podrás apreciar la colorida arquitectura de Guanajuato.)
      -Museo de las Momias (Uno de los museos más famosos de la ciudad, donde se exhiben los cuerpos momificados de forma natural que fueron 
@@ -50,7 +43,6 @@ export default function TravelBlog() {
 	 -Alhóndiga de Granaditas (Edificio histórico que fue un granero y una pieza clave en la Guerra de Independencia, hoy es un museo que alberga exposiciones de arte y arqueología.)
 	 -Mercado Hidalgo (Mercado histórico de hierro y cristal, ideal para probar la comida local, comprar artesanías y sumergirse en la vida cotidiana de la ciudad.
 	 -Túneles Subterráneos (Extensa red de calles subterráneas por la que se puede conducir)
-	 
 	 Su platillo tradicional son las Enchiladas mineras (Las tortillas de maíz se rellenan de queso ranchero y cebolla, se bañan en una salsa de chile guajillo, y se sirven con pollo, papas y zanahorias.)
 	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)'
 	 
@@ -62,7 +54,7 @@ export default function TravelBlog() {
       date: '2025-10-10',
      location: 'San Miguel de allende, México',
       cover: './Images/viajero.png',
-      content: 'Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
+      content: 'Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.'
     }
 	,
     {
