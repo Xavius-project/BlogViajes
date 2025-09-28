@@ -7,12 +7,17 @@ export default function TravelBlog() {
   const [posts] = useState([
     {
       id: 1,
-      title: 'Mantente vivo en  San Cristóbal de las Casas',
+      title: 'Mantente vivo en  Chiapas, México',
       excerpt: 'Calles empedradas, mercados artesanales y miradores con vistas inolvidables.',
       date: '2025-09-01',
       location: 'Chiapas, México',
       cover: './Images/sanclistobal.png',
-      content: `Esto es solo el comienzo, Caminar por las calles empedradas de San Cristóbal es viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia. Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías.`
+      content: `Esto es solo el comienzo, caminar por las calles empedradas de San Cristóbal es como viajar en el tiempo.Entre casas coloniales y aromas de café local, cada esquina cuenta una historia.
+	  Lo que yo visité en este viaje fue el Centro histórico, Andador Real de Guadalupe (Esta es una de las calles peatonales más transitadas), Catedral de San Cristóbal (Icónico edificio colonial de estilo barroco. Su interior está recubierto de pan de oro, destaca por su historia y arte), Plaza 31 de marzo ( Plaza principal, donde podrás observar la vida cotidiana de la ciudad, rodeado de restaurantes, tiendas y la Catedral.)y Mercado de Artesanías de Santo Domingo ( Ubicado cerca del templo de Santo Domingo,  perfecto para encontrar una infinidad de textiles,joyas de ámbar y otras artesanías locales hechas por artesanos de la región)
+	  Su platillo tradicional es el Cochito (platillo de carne de cerdo adobada y horneada es un clásico de la región y es ampliamente reconocido como una especialidad de la cocina coleta.) Su bebida que los representa es el Pozol ( Bebida ancestral a base de cacao, maíz y canela )
+	  Yo aprendí sobre una rica diversidad cultural, la historia colonial de México, las tradiciones indígenas y una profunda conexión con la naturaleza.
+	  Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías`
+
     },
     {
       id: 2,
