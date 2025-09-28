@@ -20,7 +20,7 @@ export default function TravelBlog() {
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
       date: '2025-08-10',
      location: 'Oaxaca, México',
-      cover: 'https://images.unsplash.com/photo-1505765057892-6a9d7c6a0f4b?auto=format&fit=crop&w=1200&q=60',
+      cover: './Images/viajero.png',
       content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
     }
   ]);
