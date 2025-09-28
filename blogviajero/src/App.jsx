@@ -35,8 +35,8 @@ export default function TravelBlog() {
       cover: './Images/perico.png',
       content: 'Guanajuato: colores que inspiran, callejones que atrapan y vibes que no olvidas.
 	  Lo que yo visité en este viaje fue:
-     -Callejón del Beso (Este icónico callejón es un lugar romántico y emblemático, famoso por la leyenda que narra la historia de amor de dos jóvenes.)
-     -Monumento a El Pípila (Una de las mejores vistas panorámicas de la ciudad, podrás apreciar la colorida arquitectura de Guanajuato.)
+	  -Callejón del Beso (Este icónico callejón es un lugar romántico y emblemático, famoso por la leyenda que narra la historia de amor de dos jóvenes.)
+	 -Monumento a El Pípila (Una de las mejores vistas panorámicas de la ciudad, podrás apreciar la colorida arquitectura de Guanajuato.)
      -Museo de las Momias (Uno de los museos más famosos de la ciudad, donde se exhiben los cuerpos momificados de forma natural que fueron 
 	  exhumados del Panteón de Santa Paula.)
 	 -Teatro Juárez (Majestuoso teatro de estilo dórico romano es una joya arquitectónica que recibe a importantes eventos culturales.)
