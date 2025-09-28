@@ -11,7 +11,7 @@ export default function TravelBlog() {
       excerpt: 'Calles empedradas, mercados artesanales y miradores con vistas inolvidables.',
       date: '2025-09-01',
       location: 'Chiapas, México',
-      cover: 'https://images.unsplash.com/photo-1549887534-4f3d1c7e6a4c?auto=format&fit=crop&w=1200&q=60',
+      cover: './blogviajero/Images/sanclistobal.png,
       content: `Caminar por las calles empedradas de San Cristóbal es viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia. Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías.`
     },
     {
