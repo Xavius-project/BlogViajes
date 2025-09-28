@@ -16,10 +16,19 @@ export default function TravelBlog() {
     },
     {
       id: 2,
-      title: 'Un fin de semana en Oaxaca',
+      title: 'Paseatepor las calles de Guanajuato colonial',
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
-      date: '2025-08-10',
-     location: 'Oaxaca, México',
+      date: '2025-10-10',
+     location: 'Guanajuato, México',
+      cover: './Images/viajero.png',
+      content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
+    },
+    {
+      id: 3,
+      title: 'Sin camisa y robando suspiros en San Miguel de Allende',
+      excerpt: 'Gastronomía, colores y tradición en cada plaza.',
+      date: '2025-10-10',
+     location: 'San Miguel de allende, México',
       cover: './Images/viajero.png',
       content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
     }
@@ -110,7 +119,7 @@ export default function TravelBlog() {
           <div className="md:flex gap-6 items-center">
             <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=60" alt="autor" className="w-32 h-32 object-cover rounded-full mb-4 md:mb-0" />
             <div>
-              <p>Soy un viajero apasionado por las culturas locales, la comida y las historias que hacen únicos a los lugares. Aquí comparto mis experiencias, tips y rutas para que viajes con más confianza.</p>
+              <p>Soy Sandra Lizeth, diganme Liz, y soy una viajera apasionada por las culturas locales, la comida y las historias que hacen únicos a los lugares. Aquí comparto mis experiencias, tips y rutas para que viajes con más confianza.</p>
               <ul className="mt-3 space-y-1 text-sm text-gray-600">
                 <li>✦ Presupuesto amigable</li>
                 <li>✦ Fotografías propias</li>
