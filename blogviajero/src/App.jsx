@@ -74,7 +74,7 @@ export default function TravelBlog() {
         {/* Hero */}
         <section className="grid md:grid-cols-2 gap-8 items-center mb-12">
           <div>
-            <h2 className="text-4xl font-bold mb-4">Viaja ligero, vive mucho</h2>
+            <h2 className="text-4xl font-bold mb-4">Descubre el mundo, descubre tu historia.</h2>
             <p className="mb-6 text-lg">Guías reales, fotos auténticas y consejos prácticos para que tus viajes sean memorables — sin gastar de más.</p>
             <div className="flex gap-3">
               <a href="#posts" className="inline-block px-5 py-3 bg-indigo-600 text-white rounded-lg shadow">Leer posts</a>
