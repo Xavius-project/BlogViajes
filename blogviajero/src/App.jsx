@@ -12,7 +12,7 @@ export default function TravelBlog() {
       date: '2025-09-01',
       location: 'Chiapas, México',
       cover: './Images/sanclistobal.png',
-      content: `Esto es solo el comeinzoCaminar por las calles empedradas de San Cristóbal es viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia. Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías.`
+      content: `Esto es solo el comienzo, Caminar por las calles empedradas de San Cristóbal es viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia. Tips: llevar ropa de abrigo por la noche y visitar el mercado municipal para artesanías.`
     },
     {
       id: 2,
