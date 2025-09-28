@@ -20,7 +20,7 @@ export default function TravelBlog() {
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
       date: '2025-10-10',
      location: 'Guanajuato, México',
-      cover: './Images/viajero.png',
+      cover: './Images/perico.png',
       content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
     },
     {
