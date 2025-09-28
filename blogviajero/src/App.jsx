@@ -76,7 +76,12 @@ export default function TravelBlog() {
 	  -El Charco del Ingenio: Jardín Botánico (Parque natural y reserva ecológica)
 	  -Museo Histórico Casa de Allende (Casa natal de Ignacio Allende, héroe de la Independencia de México. Hoy es un museo que detalla su vida, la historia de la región y el movimiento independentista.)
 	  -Zona Arqueológica Cañada de la Virgen (Asentamiento prehispánico otomí, complejo arqueológico con estructuras piramidales que funcionaron como observatorios astronómicos)
-	  -Mercado de Artesanías (Larga calle techada donde puedes encontrar todo tipo de productos locales)`
+	  -Mercado de Artesanías (Larga calle techada donde puedes encontrar todo tipo de productos locales)
+	  
+	  Su platillo más conocido es el Fiambre (Ensalada fría y colorida, muy compleja, que mezcla varias carnes (pollo, lengua de res, patitas de cerdo) con frutas de temporada y verduras, todo bañado en una vinagreta.)
+	  Su dulce más tradicional son los Tumbagones (Tubos de masa frita hechos con harina de trigo, naranja agria y anís, espolvoreados con azúcar)
+	  
+	  Tips: Lleva una cámara,ropa cómoda y abrigadora`
     }
 	,
     {
