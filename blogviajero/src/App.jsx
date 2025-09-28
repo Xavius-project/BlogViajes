@@ -147,7 +147,7 @@ export default function TravelBlog() {
                   <p className="mb-4 text-gray-700">{post.excerpt}</p>
                   <div className="mt-auto flex gap-3">
                     <button onClick={() => setSelected(post)} className="px-4 py-2 bg-cyan-500 text-white rounded-lg">Leer</button>
-                    <a href={`#`} className="px-4 py-2 border rounded-lg">Compartir</a>
+                    <a href={`#`} className="px-4 py-2 border rounded-lg">Iniciar</a>
                   </div>
                 </div>
               </article>
@@ -215,8 +215,7 @@ export default function TravelBlog() {
               <p className="mt-4 text-gray-700 whitespace-pre-line">{selected.content}</p>
 
               <div className="mt-6 flex gap-3">
-                <a href="#" className="px-4 py-2 border rounded">Guardar</a>
-                <a href="#" className="px-4 py-2 bg-cyan-500 text-white rounded">Compartir</a>
+               <button onClick={() => setSelected(null)} className="text-gray-600">Cerrar</button>
               </div>
             </div>
           </div>
