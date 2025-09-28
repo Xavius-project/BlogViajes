@@ -14,7 +14,12 @@ export default function TravelBlog() {
       cover: './Images/sanclistobal.png',
       content: `Esto es solo el comienzo, caminar por las calles empedradas de San Cristóbal es como viajar en el tiempo. Entre casas coloniales y aromas de café local, cada esquina cuenta una historia.
 	  
-	  Lo que yo visité en este viaje fue el Centro histórico, Andador Real de Guadalupe (Esta es una de las calles peatonales más transitadas), Catedral de San Cristóbal (Icónico edificio colonial de estilo barroco. Su interior está recubierto de pan de oro, destaca por su historia y arte), Plaza 31 de marzo ( Plaza principal, donde podrás observar la vida cotidiana de la ciudad, rodeado de restaurantes, tiendas y la Catedral.)y Mercado de Artesanías de Santo Domingo ( Ubicado cerca del templo de Santo Domingo,  perfecto para encontrar una infinidad de textiles,joyas de ámbar y otras artesanías locales hechas por artesanos de la región)
+	  Lo que yo visité en este viaje fue: 
+	  
+	  -El Centro histórico, Andador Real de Guadalupe (Esta es una de las calles peatonales más transitadas)
+	  -Catedral de San Cristóbal (Icónico edificio colonial de estilo barroco. Su interior está recubierto de pan de oro, destaca por su historia y arte)
+	  -Plaza 31 de marzo ( Plaza principal, donde podrás observar la vida cotidiana de la ciudad, rodeado de restaurantes, tiendas y la Catedral.)
+	  -Mercado de Artesanías de Santo Domingo ( Ubicado cerca del templo de Santo Domingo,  perfecto para encontrar una infinidad de textiles, joyas de ámbar y otras artesanías locales hechas por artesanos de la región)
 	  
 	  Su platillo tradicional es el Cochito (platillo de carne de cerdo adobada y horneada es un clásico de la región y es ampliamente reconocido como una especialidad de la cocina coleta.) Su bebida que los representa es el Pozol ( Bebida ancestral a base de cacao, maíz y canela )
 	  
