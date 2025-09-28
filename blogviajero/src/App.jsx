@@ -59,8 +59,9 @@ export default function TravelBlog() {
 	 
 	 De Guanajuato aprendí su rica historia minera, que le ha dado una identidad única como ciudad Patrimonio de la Humanidad, con su laberíntico sistema de túneles y callejones
 	 
-	 Tips:Camina mucho, visita atracciones imperdibles como el Teatro Juárez y el Callejón del Beso, y evita moverte en coche por los estrechos callejones. Mantente en zonas concurridas por la noche para mayor seguridad y prueba los dulces y recuerdos en el mercado principal. 
-    },
+	 Tips: Camina mucho, visita atracciones imperdibles como el Teatro Juárez y el Callejón del Beso, y evita moverte en coche por los estrechos callejones. Mantente en zonas concurridas por la noche para mayor seguridad y prueba los dulces y recuerdos en el mercado principal. 
+    }
+	,
     {
       id: 3,
       title: 'Sin camisa y robando suspiros en San Miguel de Allende',
