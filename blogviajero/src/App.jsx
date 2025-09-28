@@ -55,7 +55,7 @@ export default function TravelBlog() {
 	 
 	 Su platillo tradicional son las Enchiladas mineras (Las tortillas de maíz se rellenan de queso ranchero y cebolla, se bañan en una salsa de chile guajillo, y se sirven con pollo, papas y zanahorias.)
 	 
-	 Su bebida que los representa es la Cebadina (Bebida hecha a base de una infusión fermentada de tamarindo, jamaica y cebada, a la que se le añade bicarbonato para darle una textura espumosa.)
+	 Su bebida que los representa es el atole(Bebida espesa y caliente hecha de maiz y endulzada con piloncillo y azúcar, se suele acompañar con atole)
 	 
 	 De Guanajuato aprendí su rica historia minera, que le ha dado una identidad única como ciudad Patrimonio de la Humanidad, con su laberíntico sistema de túneles y callejones
 	 
