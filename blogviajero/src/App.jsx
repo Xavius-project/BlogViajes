@@ -117,7 +117,7 @@ export default function TravelBlog() {
             </div>
           </div>
           <div className="rounded-xl overflow-hidden shadow-lg">
-            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=60" alt="playa" className="w-full h-64 object-cover" />
+            <img src="./Images/slowtravel.png" alt="SlowPage" className="w-full h-64 object-cover" />
           </div>
         </section>
 
