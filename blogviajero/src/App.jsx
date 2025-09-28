@@ -62,7 +62,7 @@ export default function TravelBlog() {
 	 Tips: Camina mucho, visita atracciones imperdibles como el Teatro Juárez y el Callejón del Beso, y evita moverte en coche por los 	callejones estrechos. Mantente en zonas concurridas por la noche para mayor seguridad y prueba los dulces y recuerdos en el mercado principal. `
     }
 	,
-    {
+	{
       id: 3,
       title: 'Sin camisa y robando suspiros en San Miguel de Allende',
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
