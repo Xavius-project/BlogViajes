@@ -64,12 +64,19 @@ export default function TravelBlog() {
 	,
 	{
       id: 3,
-      title: 'Sin camisa y robando suspiros en San Miguel de Allende',
+      title: 'Dejando huella en San Miguel de Allende',
       excerpt: 'Gastronomía, colores y tradición en cada plaza.',
       date: '2025-10-10',
      location: 'San Miguel de allende, México',
-      cover: './Images/viajero.png',
-      content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
+      cover: './Images/SMA.webp',
+      content: `De la cocina colonial al rooftop más top
+	  -Parroquia de San Miguel Arcángel (Iglesia icónica de estilo neogótico que domina el horizonte)
+	  -Jardín Principal (Corazón de la ciudad, un punto de encuentro con un quiosco central, rodeado de cafés y vida social.)
+	  -Centro Histórico (Calles empedradas, llenas de coloridas casas coloniales, galerías de arte, tiendas de artesanía, boutiques y rooftop bars con vistas espectaculares.)
+	  -El Charco del Ingenio: Jardín Botánico (Parque natural y reserva ecológica)
+	  -Museo Histórico Casa de Allende (Casa natal de Ignacio Allende, héroe de la Independencia de México. Hoy es un museo que detalla su vida, la historia de la región y el movimiento independentista.)
+	  -Zona Arqueológica Cañada de la Virgen (Asentamiento prehispánico otomí, complejo arqueológico con estructuras piramidales que funcionaron como observatorios astronómicos)
+	  -Mercado de Artesanías (Larga calle techada donde puedes encontrar todo tipo de productos locales)`
     }
 	,
     {
