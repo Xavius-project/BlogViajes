@@ -21,7 +21,10 @@ export default function TravelBlog() {
 	  -Plaza 31 de marzo ( Plaza principal, donde podrás observar la vida cotidiana de la ciudad, rodeado de restaurantes, tiendas y la Catedral.)
 	  -Mercado de Artesanías de Santo Domingo ( Ubicado cerca del templo de Santo Domingo,  perfecto para encontrar una infinidad de textiles, joyas de ámbar y otras artesanías locales hechas por artesanos de la región)
 	  
-	  Su platillo tradicional es el Cochito (platillo de carne de cerdo adobada y horneada es un clásico de la región y es ampliamente reconocido como una especialidad de la cocina coleta.) Su bebida que los representa es el Pozol ( Bebida ancestral a base de cacao, maíz y canela )
+	  Su platillo tradicional es el Cochito (platillo de carne de cerdo adobada y horneada es un clásico de la región y es ampliamente reconocido como una 
+	  especialidad de la cocina coleta.)
+	  Su bebida que los representa es el Pozol ( Bebida ancestral a base de cacao, maíz y canela )
+	  Su dulce más popular y exquisito es el Jamoncillo (Dulce tradicional de leche, con sabor a canela)
 	  
 	  Yo aprendí sobre una rica diversidad cultural, la historia colonial de México, las tradiciones indígenas y una profunda conexión con la naturaleza.
 	  
