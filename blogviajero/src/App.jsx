@@ -32,14 +32,18 @@ export default function TravelBlog() {
       cover: './Images/viajero.png',
       content: `Probar mole, caminar por el centro histórico y visitar Monte Albán. Recomendación: reservar tours locales y probar la comida en mercados tradicionales.`
     }
-  ]);id: 4,
+	,
+    {
+      id: 4,
       title: 'Turistea por las calles de Celaya Guanajuato',
       excerpt: 'Cajeta,dulces y crepas.',
       date: '2025-10-10',
      location: 'Celaya, Guanajuato',
       cover: './Images/Celaya.png',
       content: `El Corazón Dulce de Guanajuato y donde la historia sabe a Cajeta.`
-    },
+    }
+	
+  ]);
 
   const [selected, setSelected] = useState(null);
   const [query, setQuery] = useState('');
