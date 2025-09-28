@@ -165,7 +165,7 @@ export default function TravelBlog() {
           <div className="md:flex gap-6 items-center">
             <img src="./Images/Liz.png" alt="autor" className="w-32 h-32 object-cover rounded-full mb-4 md:mb-0" />
             <div>
-              <p>Soy Sandra Lizeth, diganme Liz, y soy una viajera apasionada por las culturas locales, la comida y las historias que hacen únicos a los lugares. Aquí comparto mis experiencias, tips y rutas para que viajes con más confianza.</p>
+              <p>Soy Sandra Lizeth, Pero solo dime Liz, soy una viajera apasionada por las culturas locales, la comida y las historias que hacen únicos a los lugares. Aquí comparto mis experiencias, tips y rutas para que viajes con más confianza.</p>
               <ul className="mt-3 space-y-1 text-sm text-gray-600">
                 <li>✦ Presupuesto amigable</li>
                 <li>✦ Fotografías propias</li>
